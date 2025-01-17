@@ -1,0 +1,11 @@
+Table 5 and 6:  Uranium and plutonium results for intercomparison seawater samples obtained on the 1 MV and on the 500kV compact AMS system at the CNA and ETH. The seawater samples come from two sampling stations in the Arctic Ocean (218 and 204) and different depths. Activity concentrations of 239Pu and 240Pu measured on the 1MV AMS system at CNA are also provided. 1 sigma errors are given.;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+Sample;Volume[L];236U-CNA[1E6atoms/kg];un_236U-CNA[1E6atoms/kg];236U-ETH[1E6atoms/kg];un_236U-ETH[1E6atoms/kg];236U/238U-CNA[1E-9_atom_ratio];un_236U/238U-CNA[1E-9_atom_ratio];236U/238U-ETH[1E-9_atom_ratio];un_236U/238U-ETH[1E-9_atom_ratio];240Pu/239Pu-CNA[atom_ratio];un_240Pu/239Pu-CNA[atom_ratio];240Pu/239Pu-ETH[atom_ratio];un_240Pu/239Pu-ETH[atom_ratio];239Pu-CNA[uBq/kg];un_239Pu-CNA[uBq/kg];240Pu-CNA[uBq/kg];un_240Pu-CNA[uBq/kg]
+218_5m;3.2;22;2;21.9;0.9;2.76;0.13;2.81;0.07;0.21;0.05;0.27;0.06;0.69;0.07;0.54;0.1
+218_750m;2.9;19;1;20;0.8;2.35;0.14;2.22;0.06;0.28;0.04;0.21;0.01;1.75;0.13;1.82;0.19
+204_80m;3.6;23;1;23.9;0.9;2.87;0.15;2.92;0.09;0.16;0.04;0.16;0.02;1.16;0.12;0.71;0.14
+204_250m;5.1;18;1;19.6;1.1;2.12;0.1;2.4;0.11;0.19;0.04;0.19;0.02;1.08;0.09;0.74;0.13
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
